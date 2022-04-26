@@ -1,0 +1,7 @@
+15:15:57.031 [TestNG-tests-1] INFO  academ.HomePage - Navigated to Home page
+15:26:25.115 [TestNG-tests-1] INFO  academ.ValiadteTitle - Driver is instilaized
+15:26:25.210 [TestNG-tests-3] INFO  academ.HomePage - Driver is instilaized
+15:26:25.211 [TestNG-tests-2] INFO  academ.ValidateNavigation - Driver is instilaized
+15:28:53.369 [TestNG-tests-3] INFO  academ.HomePage - Navigated to Home page
+15:28:57.718 [TestNG-tests-2] INFO  academ.ValidateNavigation - Navigated to Home page
+15:28:58.522 [TestNG-tests-1] INFO  academ.ValiadteTitle - Navigated to Home page

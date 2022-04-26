@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59841" started-at="2022-04-26T15:50:54 NZST" finished-at="2022-04-26T15:51:54 NZST">
+    <groups>
+    </groups>
+    <test name="Validating HomePage" duration-ms="59841" started-at="2022-04-26T15:50:54 NZST" finished-at="2022-04-26T15:51:54 NZST">
+      <class name="academ.HomePage">
+        <test-method status="PASS" signature="initializeDrive()[pri:0, instance:academ.HomePage@6933b6c6]" name="initializeDrive" is-config="true" duration-ms="51953" started-at="2022-04-26T15:50:54 NZST" finished-at="2022-04-26T15:51:46 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDrive -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String,java.lang.String)[pri:0, instance:academ.HomePage@6933b6c6]" name="validateHomePage" duration-ms="7066" started-at="2022-04-26T15:51:46 NZST" data-provider="InputData" finished-at="2022-04-26T15:51:53 NZST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nonrestricteduser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:academ.HomePage@6933b6c6]" name="teardown" is-config="true" duration-ms="744" started-at="2022-04-26T15:51:53 NZST" finished-at="2022-04-26T15:51:54 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academ.HomePage -->
+    </test> <!-- Validating HomePage -->
+  </suite> <!-- Suite -->
+</testng-results>

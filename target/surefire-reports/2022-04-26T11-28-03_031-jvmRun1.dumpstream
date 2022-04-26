@@ -1,0 +1,29 @@
+# Created at 2022-04-26T11:28:42.913
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2022-04-26T11:28:57.051
+Unexpected IOException: 5,1,academ.HomePage,validateHomePage(academ.HomePage),academ.HomePage,null,null
+
+
+# Created at 2022-04-26T11:29:00.245
+Unexpected IOException with stream: FEATURED COURSES
+
+
+# Created at 2022-04-26T11:29:03.683
+Unexpected IOException: 6,1,academ.HomePage,validateHomePage(academ.HomePage),null,null,null
+
+
+# Created at 2022-04-26T11:29:03.688
+Unexpected IOException with stream: Successfully closed
+
+
+# Created at 2022-04-26T11:29:05.307
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
